@@ -1,5 +1,8 @@
 <h1>SQL Project</h1>
 
-<h2>Project Goal</h2>
-![world layoffs](https://github.com/RajalakshmiSubramanian11/SQL-Project/assets/173561058/c6c73056-bcf2-44e9-9758-69ea72fd029a)
+<h2>World Layoffs Data Cleaning with SQL</h2>
+<p>Standardize and prepare the dataset (layoffs_staging2) for analysis by resolving data quality issues and optimizing structure.</p>
+
+
+
 
