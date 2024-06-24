@@ -41,7 +41,7 @@ FROM world_layoffs.layoffs_staging2
 GROUP BY country
 ORDER BY 2 DESC;
 
--- Analyze yearly trends of layoffs, sorted by latest year
+-- Analyse yearly trends of layoffs, sorted by latest year
 SELECT YEAR(`date`), SUM(total_laid_off)
 FROM world_layoffs.layoffs_staging2
 GROUP BY YEAR(`date`)
