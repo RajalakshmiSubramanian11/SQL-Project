@@ -21,18 +21,15 @@
 
 <h3>Project Goal</h3>
 
-<p> Analyze the data to uncover insights and patterns</p>
+<p> Analyse the data to uncover insights and patterns</p>
 
 <p> 1. Review structure, handle missing values, and outliers.</p>
 <p> 2. Find max layoffs and percentage layoffs.</p>
 <p> 3. Identify companies with highest layoffs.</p>
-<p> 4. Analyze layoffs over time (earliest, latest dates and yearly trends).</p>
+<p> 4. Analyse layoffs over time (earliest, latest dates and yearly trends).</p>
 <p> 5. Summarize layoffs by country and industry.</p>
 
 <h3>Dataset</h3>
 
 <p>The dataset was sourced from <a href="https://github.com/AlexTheAnalyst"> Alex The Analyst</a> curated portfolio project initiative</p>
-
-
-
 
